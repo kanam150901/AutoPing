@@ -1,4 +1,4 @@
-# NetPulse Monitor 🌐🖥️
+# Auto Ping Monitor 🌐🖥️
 
 **Real-time network monitoring tool** dengan fitur ping otomatis, pengecekan latency, dan notifikasi visual - ditulis dalam Batch script untuk Windows.
 
